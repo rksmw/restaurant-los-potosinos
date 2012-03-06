@@ -1,0 +1,5 @@
+#labels Phase-Design
+==Diagrama de Procesos==
+
+
+[http://restaurant-los-potosinos.googlecode.com/files/VENTA.png]
