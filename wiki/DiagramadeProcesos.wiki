@@ -11,3 +11,13 @@
 [http://restaurant-los-potosinos.googlecode.com/files/EDITAR%20%20UN%20USUARIO.png]
 
 [http://restaurant-los-potosinos.googlecode.com/files/ELIMINAR%20UN%20USUARIO.png]
+
+[http://restaurant-los-potosinos.googlecode.com/files/NUEVO%20PROVEEDOR.png]
+
+[http://restaurant-los-potosinos.googlecode.com/files/AGREGAR%20PRODUCTO.png]
+
+[http://restaurant-los-potosinos.googlecode.com/files/AGREGAR%20UN%20MESERO.png]
+
+[http://restaurant-los-potosinos.googlecode.com/files/ALTA%20MESA.png]
+
+[http://restaurant-los-potosinos.googlecode.com/files/registrar_venta.png]
