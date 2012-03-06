@@ -5,3 +5,9 @@
 [http://restaurant-los-potosinos.googlecode.com/files/VENTA.png]
 
 [http://restaurant-los-potosinos.googlecode.com/files/REGISTRO%20UN%20USUARIO.png]
+
+[http://restaurant-los-potosinos.googlecode.com/files/BUSCAR%20UN%20USUARIO.png]
+
+[http://restaurant-los-potosinos.googlecode.com/files/EDITAR%20%20UN%20USUARIO.png]
+
+[http://restaurant-los-potosinos.googlecode.com/files/ELIMINAR%20UN%20USUARIO.png]
