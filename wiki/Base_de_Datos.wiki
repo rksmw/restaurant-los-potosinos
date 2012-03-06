@@ -1,0 +1,5 @@
+#labels Phase-Design,Phase-Implementation
+==Base de datos==
+=Restaurant Los Potosinos=
+
+[http://restaurant-los-potosinos.googlecode.com/files/dbpotosinos.png]
