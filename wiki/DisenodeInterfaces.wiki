@@ -1,0 +1,20 @@
+== Diseño de Interfaces ==
+
+Aquí se muestra las primeras interfaces tentativas del sistema para el "Restaurant Los Potosinos".
+
+[http://restaurant-los-potosinos.googlecode.com/files/iniciarsesion.png]
+
+[http://restaurant-los-potosinos.googlecode.com/files/menuventa.png]
+
+[http://restaurant-los-potosinos.googlecode.com/files/mesa.png]
+
+[http://restaurant-los-potosinos.googlecode.com/files/proveedor.png]
+
+[http://restaurant-los-potosinos.googlecode.com/files/producto.png]
+
+[http://restaurant-los-potosinos.googlecode.com/files/usuario.png]
+
+[http://restaurant-los-potosinos.googlecode.com/files/pantallaventa.png]
+
+
+ 
