@@ -26,10 +26,23 @@ Aquí se muestra las tablas con sus datos y sus respectivas descripciones
 =Producto=
 || *Tipo Llave* ||* Campo* ||* Tipo *||*Longitud*||* Descripción *||
 ||Pk||	id_producto||	varchar||	5	||llave unica del proveedor||
-||||	nombre||	varchar	||30||	nombre de producto||
-||||	costo||	moneda	||	||costo de adquisición del producto||
-||||	precio	||moneda||||		precio del producto||
-||||	unidad	||varchar ||	20||	unidad de medida del producto||
-||||	existencia||	int||	5||	cantidad de producto existente||
-||||	id_proveedor||	int||	5||	id del proveedor||
+|| ||	nombre||	varchar	||30||	nombre de producto||
+|| ||	costo||	moneda	||	||costo de adquisición del producto||
+|| ||	precio	||moneda||||		precio del producto||
+|| ||	unidad	||varchar ||	20||	unidad de medida del producto||
+|| ||	existencia||	int||	5||	cantidad de producto existente||
+|| ||	id_proveedor||	int||	5||	id del proveedor||
+
+
+=Mesero=
+|| *Tipo Llave* ||* Campo* ||* Tipo *||*Longitud*||* Descripción *||
+||Pk||	id_mesero||	int||5	||	llave unica del mesero||
+|| ||	nombre||	varchar	||50||	nombre del mesero||
+
+=Mesa=
+|| *Tipo Llave* ||* Campo* ||* Tipo *||*Longitud*||* Descripción *||
+||Pk||	id_mesa||	int	|| 3  ||	llave unica de mesa||
+
+
+
 
