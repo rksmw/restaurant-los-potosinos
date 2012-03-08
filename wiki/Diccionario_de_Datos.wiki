@@ -19,9 +19,9 @@ Aquí se muestra las tablas con sus datos y sus respectivas descripciones
 || *Tipo Llave* ||* Campo* ||* Tipo *||*Longitud*||* Descripción *||
 ||Pk||id_proveedor||	varchar	||5||	llave unica del proveedor||	
 ||||	nombre	||varchar	||20||	nombre del provedor (empresa)||	
-||||	direccion	||varchar||	||25||	direccion del proveedor	||
+||||	direccion||varchar||25||	direccion del proveedor	||
 ||||	telefono||	varchar	||13||	telefono del proveedor	||
-||||	contacto	varchar	||50||	nombre de la persona relacionada al proveedor	||
+||||	contacto||	varchar	||50||	nombre de la persona relacionada al proveedor	||
 
 
 	
