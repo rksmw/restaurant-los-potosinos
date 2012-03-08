@@ -6,8 +6,22 @@ Aquí se muestra las tablas con sus datos y sus respectivas descripciones
 
 
 =Usuario=
-|| *Tipo Llave* ||* Campo* ||* Tipo *||* Descripción *||
+|| *Tipo Llave* ||* Campo* ||* Tipo *||*Longitud*||* Descripción *||
 			
-||Pk || id_usuario || int|| llave unica de usuario||		
-|| ||nombre || varchar	30|| nombre del usuario||
-|| ||apellidos||	varchar	30	||apellidos del usuario||
+||Pk || id_usuario || int|| 5||llave unica de usuario||		
+|| ||nombre || varchar	||30|| nombre del usuario||
+|| ||apellidos||	varchar	||30||apellidos del usuario||
+||||tipo_user||	varchar	||15||	descripcion del tipo de usuario (administrador, cajera)	||
+||||	contraseña||	varchar	||12||	contraseña del usuario||
+
+
+=Proveedor=
+|| *Tipo Llave* ||* Campo* ||* Tipo *||*Longitud*||* Descripción *||
+||Pk||id_proveedor||	varchar	||5||	llave unica del proveedor||	
+||||	nombre	||varchar	||20||	nombre del provedor (empresa)||	
+||||	direccion	||varchar||	||25||	direccion del proveedor	||
+||||	telefono||	varchar	||13||	telefono del proveedor	||
+||||	contacto	varchar	||50||	nombre de la persona relacionada al proveedor	||
+
+
+	
