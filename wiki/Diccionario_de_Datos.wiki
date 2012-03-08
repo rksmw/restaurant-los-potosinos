@@ -40,11 +40,11 @@ Aquí se muestra las tablas con sus datos y sus respectivas descripciones
 || ||	nombre||	varchar	||50||	nombre del mesero||
 
 =Mesa=
- ||* Tipo Llave* ||* Campo* ||* Tipo *||*Longitud*||* Descripción *||
+||* Tipo Llave* ||* Campo* ||* Tipo *||*Longitud*||* Descripción *||
 ||Pk||	id_mesa||	int	|| 3  ||	llave unica de mesa||
 
 =Venta=
- ||* Tipo Llave* ||* Campo* ||* Tipo *||*Longitud*||* Descripción *||
+||* Tipo Llave* ||* Campo* ||* Tipo *||*Longitud*||* Descripción *||
 ||Pk||	id_venta||	int||5||		llave unica de venta||
 || ||	fecha	||varchar||	30||	fecha de la venta ||
 || ||	id_mesa	||int	|| 5||	numero de mesa que se cobra||
@@ -54,5 +54,3 @@ Aquí se muestra las tablas con sus datos y sus respectivas descripciones
 || ||	id_cliente||	varchar||	5||	numero de cliente al que se atendio||
 || ||	_id_usuario||	int||	5	||nomero de ajeroo administrador que hace el cobro||
 || ||	id_mesero||	int||	5||	numero de mesero que atendio la mesa||
-
-
