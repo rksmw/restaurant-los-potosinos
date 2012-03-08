@@ -58,7 +58,7 @@ Aquí se muestra las tablas con sus datos y sus respectivas descripciones
 =Des-Venta=
 ||* Tipo Llave* ||* Campo* ||* Tipo *||*Longitud*||* Descripción *||
 ||Pk||	id_desglose_venta||	int||5||		llave unica de desglose de venta||
-|| ||	subtotal	||int	||5||	subtotal de la cantidad vendida de un solo producto||
-|| ||	cantidad ||	int	||5||	cantidad vendida de un solo producto ||
 || || id_producto||	int ||	5||	clave del producto a vender ||
-|| || id_venta ||	int || 5||		numero de la venta que se esta haceindo desgloce ||
+|| ||	cantidad ||	int	||5||	cantidad vendida de un solo producto ||
+|| ||	subtotal	||int	||5||	subtotal de la cantidad vendida de un solo producto||
+|| || id_venta ||	int || 5||		numero de la venta que se esta haciendo desgloce ||
