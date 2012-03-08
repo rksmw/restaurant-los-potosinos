@@ -31,7 +31,7 @@ Aquí se muestra las tablas con sus datos y sus respectivas descripciones
 || ||	precio	||moneda||||		precio del producto||
 || ||	unidad	||varchar ||	20||	unidad de medida del producto||
 || ||	existencia||	int||	5||	cantidad de producto existente||
-|| ||	id_proveedor||	int||	5||	id del proveedor||
+|| Fk||	id_proveedor||	int||	5||	id del proveedor||
 
 
 =Mesero=
@@ -51,14 +51,14 @@ Aquí se muestra las tablas con sus datos y sus respectivas descripciones
 || ||	total	||moneda	|| ||	total de la venta ||
 || ||	tipodeservicio	||varchar||	20||	tipo de servicio (consumo en mesa o banquete)||
 || ||	status	||varchar||	1 ||	si la venta esta activa o inactiva(por cobrar o cobrada)||
-|| ||	id_cliente||	varchar||	5||	numero de cliente al que se atendio||
-|| ||	_id_usuario||	int||	5	||nomero de ajeroo administrador que hace el cobro||
-|| ||	id_mesero||	int||	5||	numero de mesero que atendio la mesa||
+||Fk ||	id_cliente||	varchar||	5||	numero de cliente al que se atendio||
+|| Fk||	_id_usuario||	int||	5	||nomero de ajeroo administrador que hace el cobro||
+|| Fk||	id_mesero||	int||	5||	numero de mesero que atendio la mesa||
 
 =Des-Venta=
 ||* Tipo Llave* ||* Campo* ||* Tipo *||*Longitud*||* Descripción *||
 ||Pk||	id_desglose_venta||	int||5||		llave unica de desglose de venta||
-|| || id_producto||	int ||	5||	clave del producto a vender ||
+|| Fk|| id_producto||	int ||	5||	clave del producto a vender ||
 || ||	cantidad ||	int	||5||	cantidad vendida de un solo producto ||
 || ||	subtotal	||int	||5||	subtotal de la cantidad vendida de un solo producto||
-|| || id_venta ||	int || 5||		numero de la venta que se esta haciendo desgloce ||
+||Fk || id_venta ||	int || 5||		numero de la venta que se esta haciendo desgloce ||
