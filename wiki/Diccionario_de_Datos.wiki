@@ -11,8 +11,8 @@ Aquí se muestra las tablas con sus datos y sus respectivas descripciones
 ||Pk || id_usuario || int|| 5||llave unica de usuario||		
 || ||nombre || varchar	||30|| nombre del usuario||
 || ||apellidos||	varchar	||30||apellidos del usuario||
-||||tipo_user||	varchar	||15||	descripcion del tipo de usuario (administrador, cajera)	||
-||||	contraseña||	varchar	||12||	contraseña del usuario||
+|| ||tipo_user||	varchar	||15||	descripcion del tipo de usuario (administrador, cajera)	||
+|| ||contraseña||	varchar	||12||	contraseña del usuario||
 
 
 =Proveedor=
