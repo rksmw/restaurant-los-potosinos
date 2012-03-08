@@ -1,0 +1,10 @@
+#summary One-sentence summary of this page.
+
+= Casos de Uso =
+
+[http://restaurant-los-potosinos.googlecode.com/files/Imagen1.png]
+[http://restaurant-los-potosinos.googlecode.com/files/Imagen2.png]
+[http://restaurant-los-potosinos.googlecode.com/files/Imagen3.png]
+[http://restaurant-los-potosinos.googlecode.com/files/Imagen4.png]
+[http://restaurant-los-potosinos.googlecode.com/files/Imagen5.png]
+[http://restaurant-los-potosinos.googlecode.com/files/Imagen6.png]
