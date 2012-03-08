@@ -40,8 +40,19 @@ Aquí se muestra las tablas con sus datos y sus respectivas descripciones
 || ||	nombre||	varchar	||50||	nombre del mesero||
 
 =Mesa=
-|| *Tipo Llave* ||* Campo* ||* Tipo *||*Longitud*||* Descripción *||
+ *Tipo Llave* ||* Campo* ||* Tipo *||*Longitud*||* Descripción *||
 ||Pk||	id_mesa||	int	|| 3  ||	llave unica de mesa||
+
+=Venta=
+||Pk||	id_venta||	int||5||		llave unica de venta||
+|| ||	fecha	||varchar||	30||	fecha de la venta ||
+|| ||	id_mesa	||int	|| 5||	numero de mesa que se cobra||
+|| ||	total	||moneda	|| ||	total de la venta ||
+|| ||	tipodeservicio	||varchar||	20||	tipo de servicio (consumo en mesa o banquete)||
+|| ||	status	||varchar||	1 ||	si la venta esta activa o inactiva(por cobrar o cobrada)||
+|| ||	id_cliente||	varchar||	5||	numero de cliente al que se atendio||
+|| ||	_id_usuario||	int||	5	||nomero de ajeroo administrador que hace el cobro||
+|| ||	id_mesero||	int||	5||	numero de mesero que atendio la mesa||
 
 
 
