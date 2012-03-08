@@ -2,7 +2,7 @@
 
 == Diccionario de Datos==
 
-Aquí se muestra enlistadao los datos con su respectivas descripción
+Aquí se muestra las tablas con sus datos y sus respectivas descripciones
 
 
 =Usuario=
@@ -10,3 +10,4 @@ Aquí se muestra enlistadao los datos con su respectivas descripción
 			
 ||Pk || id_usuario || int|| llave unica de usuario||		
 || ||nombre || varchar	30|| nombre del usuario||
+|| ||apellidos||	varchar	30	||apellidos del usuario||
