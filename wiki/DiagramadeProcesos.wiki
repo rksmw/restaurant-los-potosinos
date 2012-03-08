@@ -2,22 +2,22 @@
 ==Diagrama de Procesos==
 
 
-[http://restaurant-los-potosinos.googlecode.com/files/VENTA.png]
+[http://restaurant-los-potosinos.googlecode.com/files/1.png]
 
-[http://restaurant-los-potosinos.googlecode.com/files/REGISTRO%20UN%20USUARIO.png]
+[http://restaurant-los-potosinos.googlecode.com/files/2.png]
 
-[http://restaurant-los-potosinos.googlecode.com/files/BUSCAR%20UN%20USUARIO.png]
+[http://restaurant-los-potosinos.googlecode.com/files/3.png]
 
-[http://restaurant-los-potosinos.googlecode.com/files/EDITAR%20%20UN%20USUARIO.png]
+[http://restaurant-los-potosinos.googlecode.com/files/4.png]
 
-[http://restaurant-los-potosinos.googlecode.com/files/ELIMINAR%20UN%20USUARIO.png]
+[http://restaurant-los-potosinos.googlecode.com/files/5.png]
 
-[http://restaurant-los-potosinos.googlecode.com/files/NUEVO%20PROVEEDOR.png]
+[http://restaurant-los-potosinos.googlecode.com/files/6.png]
 
-[http://restaurant-los-potosinos.googlecode.com/files/AGREGAR%20PRODUCTO.png]
+[http://restaurant-los-potosinos.googlecode.com/files/7.png]
 
-[http://restaurant-los-potosinos.googlecode.com/files/AGREGAR%20UN%20MESERO.png]
+[http://restaurant-los-potosinos.googlecode.com/files/8.png]
 
-[http://restaurant-los-potosinos.googlecode.com/files/ALTA%20MESA.png]
+[http://restaurant-los-potosinos.googlecode.com/files/9.png]
 
-[http://restaurant-los-potosinos.googlecode.com/files/registrar_venta.png]
+[http://restaurant-los-potosinos.googlecode.com/files/10.png]
