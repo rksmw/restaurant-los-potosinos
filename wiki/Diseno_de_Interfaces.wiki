@@ -1,0 +1,10 @@
+[http://restaurant-los-potosinos.googlecode.com/files/user.png]
+[http://restaurant-los-potosinos.googlecode.com/files/principal.png]
+[http://restaurant-los-potosinos.googlecode.com/files/meseros.png]
+[http://restaurant-los-potosinos.googlecode.com/files/productos.png]
+[http://restaurant-los-potosinos.googlecode.com/files/proveedores.png]
+[http://restaurant-los-potosinos.googlecode.com/files/usuarios.png]
+[http://restaurant-los-potosinos.googlecode.com/files/clientes.png]
+[http://restaurant-los-potosinos.googlecode.com/files/busqueda_producto.png]
+[http://restaurant-los-potosinos.googlecode.com/files/venta.png]
+
