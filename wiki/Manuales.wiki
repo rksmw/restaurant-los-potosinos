@@ -1,6 +1,11 @@
 ==Manuales==
 
 *Manual Técnico*
+
 [http://restaurant-los-potosinos.googlecode.com/files/MANUAL%20TECNICO%202.pdf Descargar]
 
+
+
 *Manual de Usuario*
+
+[http://restaurant-los-potosinos.googlecode.com/files/manualdeusuario.pdf Descargar]
