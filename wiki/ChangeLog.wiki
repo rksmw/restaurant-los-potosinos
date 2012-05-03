@@ -2,32 +2,29 @@
 
 Versión 1.0
 
-* Nuevo Modulo de Usuario
-* Validación de Usuarios en el Sistema
-* Nuevo modulo de Meseros
+- Nuevo Modulo de Usuario
+- Validación de Usuarios en el Sistema
+- Nuevo modulo de Meseros
 
 ----
 
 Versión 1.1
 
-* Nuevo Modulo de Inventario
-* Nuevo Modulo de Proveedores
+- Nuevo Modulo de Inventario
+- Nuevo Modulo de Proveedores
 
 ----
 
 Versión 1.2
 
-* Nuevo Modulo de Clientes
-* Nuevo Modulo de ventas
+- Nuevo Modulo de Clientes
+- Nuevo Modulo de ventas
 
 
 ----
 
 Versión 1.3
 
-* Implementación de Reportes
-
-
-
+- Implementación de Reportes al sistema
 
 ----
