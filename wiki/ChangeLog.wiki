@@ -26,6 +26,9 @@ Versión 1.2
 Versión 1.3
 
 - Implementación de Reportes al sistema
+
 [http://restaurant-los-potosinos.googlecode.com/files/setupLP1_3.exe Descargar]
+
+Checksum:87655262da8a4862bba05da65183564e05fead5b
 
 ----
