@@ -3,6 +3,8 @@
 
 =Inicio de Sesión=
 [http://restaurant-los-potosinos.googlecode.com/files/user.png]
+=Dinero en Caja=
+[http://restaurant-los-potosinos.googlecode.com/files/dinero.png]
 =Pantalla Principal=
 [http://restaurant-los-potosinos.googlecode.com/files/principalv3.png]
 =Administrar Usuarios=
