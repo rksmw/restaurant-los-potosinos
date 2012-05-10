@@ -9,7 +9,7 @@ Versión 1.0
 
 [http://restaurant-los-potosinos.googlecode.com/files/setupLP1_3.exe Descargar]
 
-Checksum:98235262da8a4862bba05da65183564e05fefge6
+Checksum:7030d9d292e2da345872fa53ebf694218c23b1e
 
 ----
 
