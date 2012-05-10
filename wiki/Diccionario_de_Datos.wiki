@@ -1,5 +1,4 @@
-#summary One-sentence summary of this page.
-
+#labels Diseño
 == Diccionario de Datos==
 
 Aquí se muestra las tablas con sus datos y sus respectivas descripciones
