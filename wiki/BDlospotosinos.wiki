@@ -1,2 +1,2 @@
-#labels Featured,Phase-Requirements
+#labels Diseño
 [http://restaurant-los-potosinos.googlecode.com/files/BASE_DE_DATOS.png]
