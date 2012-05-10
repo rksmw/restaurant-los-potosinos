@@ -33,7 +33,7 @@ Versión 1.2
 Checksum:52955262da8a4862bba05da65183564e05feay8w
 ----
 
-==Lo más Nuevo== Versión 1.3
+*Lo más Nuevo* Versión 1.3
 
 - Implementación de Reportes al sistema
 
