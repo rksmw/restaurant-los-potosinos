@@ -1,4 +1,4 @@
-#labels Featured
+#labels Diseño
 En la empresa “Los Potosinos” se estudiaron los procesos que se llevan acabo como la realización de una venta, un pedido  y como se realizan los inventarios de los productos que ahí se utilizan. Se pudo observar que su  administración es todavía rudimentaria ya que usan papel y lápiz para registrar cualquier movimiento, como la entrada y salida de los productos haciendo que cada vez  que se necesite alguna información se tenga que revisar la libreta correspondiente y buscar la información que se desee.
 
 
@@ -16,4 +16,3 @@ Menor tiempo en los procesos.
 Reducción de la fuga de capital y productos.
 Mayor eficiencia.
 Mejor acceso a los datos.
-
