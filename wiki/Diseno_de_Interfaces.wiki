@@ -17,5 +17,7 @@
 [http://restaurant-los-potosinos.googlecode.com/files/clientes.png]
 =Buscar Producto=
 [http://restaurant-los-potosinos.googlecode.com/files/busqueda_producto.png]
+=Surtir Producto=
+[http://restaurant-los-potosinos.googlecode.com/files/surtir.png]
 =Realizar Venta=
 [http://restaurant-los-potosinos.googlecode.com/files/venta.png]
