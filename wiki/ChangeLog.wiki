@@ -6,6 +6,10 @@ Versión 1.0
 - Validación de Usuarios en el Sistema
 - Nuevo modulo de Meseros
 
+[http://restaurant-los-potosinos.googlecode.com/files/setupLP1_3.exe Descargar]
+
+Checksum:98235262da8a4862bba05da65183564e05fefge6
+
 ----
 
 Versión 1.1
@@ -13,6 +17,9 @@ Versión 1.1
 - Nuevo Modulo de Inventario
 - Nuevo Modulo de Proveedores
 
+[http://restaurant-los-potosinos.googlecode.com/files/setupLP1_3.exe Descargar]
+
+Checksum:37645262da8a4862bba05da65183564e05fes64d
 ----
 
 Versión 1.2
@@ -20,7 +27,9 @@ Versión 1.2
 - Nuevo Modulo de Clientes
 - Nuevo Modulo de ventas
 
+[http://restaurant-los-potosinos.googlecode.com/files/setupLP1_3.exe Descargar]
 
+Checksum:52955262da8a4862bba05da65183564e05feay8w
 ----
 
 Versión 1.3
