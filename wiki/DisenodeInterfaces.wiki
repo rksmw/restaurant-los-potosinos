@@ -1,3 +1,4 @@
+#labels Versión1.0
 = Diseño de Interfaces=
 
 Aquí se muestra las diferentes interfaces a utilizar en el sistema del Restaurant Los Potosinos.
